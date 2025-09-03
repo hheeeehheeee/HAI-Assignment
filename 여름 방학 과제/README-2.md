@@ -1,4 +1,4 @@
-# GAN 기반 이미지 생성 모델 (MNIST / FashionMNIST)
+# GAN 기반 이미지 생성 모델 (MNIST)
 
 이 프로젝트는 **GAN(Generative Adversarial Network)** 을 활용하여  
 MNIST 또는 FashionMNIST 데이터셋 기반의 이미지를 생성하는 모델입니다.
